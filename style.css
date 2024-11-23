@@ -38,7 +38,7 @@ main{
     height: 100%;
     width: 100%;
     /* background-image: url(/images/659d4d18eb689f5014c1a70d_hero-p-1080.jpg); */
-    background-image: url(/assets/BgImage-hero-p-1600.jpg);
+    background-image: url(./assets/BgImage-hero-p-1600.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
